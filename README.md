@@ -1,3 +1,1 @@
-#login
-#registration
-#session
+login,registration,session
