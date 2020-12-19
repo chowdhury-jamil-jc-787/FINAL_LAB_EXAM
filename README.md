@@ -1,3 +1,3 @@
-#login -> /login
-#session -> /login
-#registration -> /registration
+#login
+#registration
+#session
