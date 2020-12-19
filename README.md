@@ -1,1 +1,3 @@
-# FINAL_LAB_EXAM
+#login -> /login
+#session -> /login
+#registration -> /registration
